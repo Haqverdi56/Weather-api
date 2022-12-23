@@ -1,0 +1,26 @@
+
+.semantic-header {
+    height: 8rem;
+    background-color: blueviolet;
+    border: 1px solid black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 0 3rem;
+}
+
+.form {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    gap: 12px;
+}
+
+.city-name {
+    padding: .4rem .5rem;
+    border-radius: 5px;
+}
+
+.get-button {
+    padding: 5px 12px;
+}
